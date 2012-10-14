@@ -1,5 +1,5 @@
 ==========================
-mass: sample assembly source
+mass: sample assembly codes
 ==========================
 
 Current target
