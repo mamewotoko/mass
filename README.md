@@ -4,8 +4,9 @@ mass: sample assembly codes
 
 Current target
 --------------
-i686 (Intel 32bit archtecture)
 
+* i686 (Intel 32bit archtecture)
+    * e.g. Ubuntu on VMWare 32bit configuration
 
 Build
 --------------
@@ -29,5 +30,5 @@ http://www.oklab.org/program/assembler/gas.html
 
 ----
 Takashi Masuyama < mamewotoko@gmail.com >  
-http://www002.upp.so-net.ne.jp/mamewo/
+http://mamewo.ddo.jp/
 
