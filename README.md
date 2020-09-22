@@ -6,6 +6,10 @@ Current target
 
 * i686 (Intel 32bit architecture)
     * e.g. Ubuntu on VMWare 32bit configuration
+* x86_64
+  * mac
+* arm32v7
+  * raspberry pi 2 model B
 
 Prepare 32bit VM
 -----------------
@@ -20,7 +24,6 @@ Build
 1. login to VM created by vagrant
 
     vagrant ssh
-
 
 2. compile asm code
 
@@ -37,8 +40,9 @@ execute following command in vagrant VM
 TODO
 -------------
 
-- add ARM sample
-- add x86_64 sample
+- add linux zaurus sample
+- add x86_64 linux sample
+- add x86_64 arm sample
 
 Reference
 -------------
