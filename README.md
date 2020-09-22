@@ -8,11 +8,12 @@ Current target
     * e.g. Ubuntu on VMWare 32bit configuration
 * x86_64
   * mac
+  * linux
 * arm32v7
   * raspberry pi 2 model B
 
-Prepare 32bit VM
------------------
+Prepare 32bit linux VM 
+-----------------------
 1. install vagrant
 2. start virtual machine using vagrant
 
