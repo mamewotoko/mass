@@ -12,7 +12,7 @@ Current target
 * arm32v7
   * raspberry pi 2 model B
 
-Prepare 32bit linux VM 
+Prepare 32bit linux VM
 -----------------------
 1. install vagrant
 2. start virtual machine using vagrant
@@ -43,7 +43,7 @@ TODO
 
 - add linux zaurus sample
 - add x86_64 linux sample
-- add x86_64 arm sample
+- add armv7 or 8 64bit sample
 
 Reference
 -------------
